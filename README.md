@@ -1,3 +1,3 @@
-# MagicAI
-
+# FiWi·Ai
+A Our Ting!
 ---
