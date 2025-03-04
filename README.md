@@ -1,1 +1,3 @@
-# FiWi.Ai
+# MagicAI
+
+---
